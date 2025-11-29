@@ -94,9 +94,9 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _LineAmount: 60
-    - _LineSpeed: 1
-    - _LineVolume: 0.037
+    - _LineAmount: 2000
+    - _LineSpeed: 200
+    - _LineVolume: 0
     - _Metallic: 0
     - _NoisAmount: 0
     - _NoiseScale: 600
